@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prompt Auditor"
+  short_description: "分析各种 Prompt，并生成评分、诊断和优化报告"
+  default_prompt: "Use $prompt-auditor to review this prompt and produce an improved version."
